@@ -1,4 +1,2 @@
-def get_age(age):
-    print (“your age :”, age)
-
-get_age(20)
+if 5 > 2:
+  print("Five is greater than two!")
